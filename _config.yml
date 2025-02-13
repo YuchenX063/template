@@ -1,9 +1,9 @@
 # change the followings to match your Github username and repo name
-baseurl: "/jekyll-project-template" # the name of your github repo
-url: "https://BCDigSchol.github.io" # the url of your github pages (change BCDigSchol to your username)
+baseurl: "/dh-capstone-project-template" # the name of your github repo
+url: "https://YuchenX063.github.io" # the url of your github pages (change BCDigSchol to your username)
 
 # site information used in page title, meta data etc.
-title: "Your Project Name"
+title: "DH Capstone Project"
 description: Your Project Description @ Boston College
 
 # color theme for links
