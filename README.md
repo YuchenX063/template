@@ -1,4 +1,4 @@
-# jekyll-project-template
+# dh-capstone-project-template
 
 Write a tagline here!
 
