@@ -4,10 +4,23 @@ title: Home
 show-title: false
 ---
 
+# PROJECT NAME
+
+*test*
+
+[click me](https://bc.edu)
+
+![image](https://www.bc.edu/etc/designs/bc-web/images/logo.png)
+
+---
+
 This is your home page. You should put the most important information about your project here. Have at least one landing image. Make sure to including information about
 
 1. The project & general background
 2. Who you are
+
+- the first line
+- the second line
 
 ---
 
