@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sources & Methods
-permalink: methods
+title: Methodologies
+permalink: methodologies
 show-title: true
 ---
 
