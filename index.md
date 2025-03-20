@@ -10,7 +10,9 @@ show-title: false
 
 ## The project
 
-(research question)
+- Research question: I am studying the use cases of different web architecture environments, because I want to understand which web architecture best displays large amounts of data for a user and what are the advantages of using an API over a flat website in terms of presenting and offering data to the user, so that users might maximize benefit from an accessible and sustainable project.
+
+- 
 
 ## About me
 
