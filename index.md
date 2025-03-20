@@ -4,27 +4,16 @@ title: Home
 show-title: false
 ---
 
-# PROJECT NAME
-
-*test*
-
-[click me](https://bc.edu)
+# Introduction
 
 ![image](https://www.bc.edu/etc/designs/bc-web/images/logo.png)
 
----
+## The project
 
-This is your home page. You should put the most important information about your project here. Have at least one landing image. Make sure to including information about
+(research question)
 
-1. The project & general background
-2. Who you are
+## About me
 
-- the first line
-- the second line
-
----
-
-Consult the [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) for Help on using Markdown!
 
 ---
 
