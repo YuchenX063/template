@@ -13,18 +13,14 @@ theme-color: indigo # indigo|yellow|pink|green|stone|
 nav-menu:
   - title: Home
     link: index
-  - title: Background
-    submenu:
-      - title: Previous Scholarship
-        link: scholarship
-      - title: Source & Methods
-        link: methods
-  - title: Findings
-    link: findings
+  - title: Context
+    link: context
+  - title: Methodologies
+    link: methodologies
+  - title: Database
+    link: database
   - title: Reflections
     link: reflections
-  - title: Bibliography
-    link: bibliography
 
 # sets whether a search bar appears on the site header
 search-bar: false
