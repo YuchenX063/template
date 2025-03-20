@@ -1,8 +1,6 @@
-# dh-capstone-project-template
+# Catholic Almanacs Database
 
-Write a tagline here!
-
-By Your Name, Boston College
+By Yuchen Xiong, Boston College
 
 ## About
 
