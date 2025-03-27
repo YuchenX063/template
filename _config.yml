@@ -3,8 +3,8 @@ baseurl: "/dh-capstone-project-template" # the name of your github repo
 url: "https://YuchenX063.github.io" # the url of your github pages (change BCDigSchol to your username)
 
 # site information used in page title, meta data etc.
-title: "DH Capstone Project"
-description: Your Project Description @ Boston College
+title: "Catholic Almanacs Database"
+description: DH Capstone project 2025 spring
 
 # color theme for links
 theme-color: indigo # indigo|yellow|pink|green|stone|
