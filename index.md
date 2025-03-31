@@ -5,11 +5,11 @@ show-title: false
 ---
 
 # Introduction
-<figure markdown>
+<p align="center">
     <img src="assets/img/1870.png" width="250"/>
     <img src="assets/img/1869.png" width="250"/>
     <img src="assets/img/1868.png" width="250"/>
-</figure>
+</p>
 
 ## The project
 
