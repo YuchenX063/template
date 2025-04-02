@@ -6,9 +6,9 @@ show-title: false
 
 # Introduction
 <p align="center">
-    <img src="assets/img/1870.png" width="250"/>
-    <img src="assets/img/1869.png" width="250"/>
-    <img src="assets/img/1868.png" width="250"/>
+    <img src="assets/img/1870.png" width="250" style="display: inline-block;"/>
+    <img src="assets/img/1869.png" width="250" style="display: inline-block;"/>
+    <img src="assets/img/1868.png" width="250" style="display:inline-block"/>
 </p>
 
 ## The project
