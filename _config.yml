@@ -16,7 +16,11 @@ nav-menu:
   - title: Context
     link: context
   - title: Methodologies
-    link: methodologies
+    submenu:
+      - title: The Database
+        link: database
+      - title: The Two Web Frameworks
+        link: methodologies
   - title: Database
     link: database
   - title: Reflections
