@@ -29,3 +29,12 @@ The table “church” records the unique, immutable institution ID (instID) for
 
 With all these tables created and associated, the database records the information of catholic institutions, people, and the relationship between them in different years.
 
+## The Two Web Frameworks
+
+There are many web frameworks that can build a database as well as a website that can query the database and display data to users. In this project, I am using and comparing two of them: Django, which is written in Python, and Nodejs/Angular, which are written in JavaScript. 
+
+- Django (Python)
+
+
+
+- Nodejs/Angular (JavaScript)
