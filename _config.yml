@@ -19,8 +19,8 @@ nav-menu:
     submenu:
       - title: The Database
         link: database_design
-      - title: The Two Web Frameworks
-        link: methodologies
+      - title: Web Frameworks
+        link: web_frameworks
   - title: Database
     link: database
   - title: Reflections
