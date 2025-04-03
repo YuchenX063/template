@@ -17,5 +17,7 @@ The Django framework is a relatively simple (flat) web framework that does not h
     <img src="assets/img/django.png" width="700"/>
 </p>
 
+This kind of flat framework has both advantages and potential problems. One obvious advantage is that because of its simplicity, a Django website is easier to learn and to build. The process of constructing a database website with Django is very straightforward: firstly, construct the database; secondly, design the views and different ways of querying the data; thirdly, write the HTML and CSS files to display the data. Therefore, for data testing or development use, it would be convenient to set up a Django website where developers can look at the relationship between different types of data; Django could also be used for a public-facing database website for temporary use. 
+
 - Nodejs/Angular (JavaScript)
 
