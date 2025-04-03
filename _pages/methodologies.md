@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Methodologies
+title: Web Frameworks
 permalink: methodologies
 show-title: true
 ---
