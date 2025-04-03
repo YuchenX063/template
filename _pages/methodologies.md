@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Web Frameworks
-permalink: methodologies
+permalink: web_frameworks
 show-title: true
 ---
 
