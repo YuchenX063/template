@@ -19,7 +19,7 @@ Besides, it is noteworthy that the relationship between catholic institutions an
     <img src="assets/img/data relationship_2.png" width="700"/>
 </p>
 
-Therefore, in order not only to track and search for the evolvement of metadata but also the evolvement of the relationship between different categories of data, a database is needed to store the metadata as well as the relationship between metadata. This chart illustrates how I design the tables:
+Therefore, in order not only to track and search for the evolvement of metadata (for example, how a catholic church's name change over time) but also the evolvement of the relationship between different categories of data, a database is needed to store **the metadata*** *and* **the relationship** between metadata. This chart illustrates how I design the tables:
 
 <p align="center">
     <img src="assets/img/tables.png" width="700"/>
