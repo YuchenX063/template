@@ -7,7 +7,7 @@ show-title: true
 
 ## The Two Web Frameworks
 
-There are many web frameworks that can build a database as well as a website that can query the database and display data to users. In this project, I am using and comparing two of them: Django, which is written in Python, and Nodejs/Angular, which are written in JavaScript. 
+There are many web frameworks that can build a database and a website that can query the database and display data to users. In this project, I am using and comparing two of them: Django, which is written in Python, and Nodejs/Angular, which are written in JavaScript. 
 
 - **Django (Python)**
 
@@ -17,7 +17,12 @@ The Django framework is a relatively simple (flat) web framework that does not h
     <img src="assets/img/django.png" width="700"/>
 </p>
 
-This kind of flat framework has both advantages and potential problems. One obvious advantage is that because of its simplicity, a Django website is easier to learn and to build. The process of constructing a database website with Django is very straightforward: firstly, construct the database; secondly, design the views and different ways of querying the data; thirdly, write the HTML and CSS files to display the data. Therefore, for data testing or development use, it would be convenient to set up a Django website where developers can look at the relationship between different types of data; Django could also be used for a public-facing database website for temporary use. 
+This kind of flat framework has both advantages and potential problems. One obvious advantage is that because of its **simplicity**, a Django website is easier to learn and to build. The process of constructing a database website with Django is very straightforward: firstly, construct the database (create tables and associate tables); secondly, design different functions to query and filter the data; thirdly, write HTML templates and CSS files to display the data. For data testing or development purposes, it would be convenient to set up a Django website where developers can look at the relationship between different types of data. Additionally, Django is also a handy framework for a public-facing database website for temporary use (I will explain why in the next paragraph).
+
+However, since the Django framework lacks an API, nor does it have a front end, its **reusability** and **flexibility** are very limited. In terms of reusability, since Django does not have an API that separates the database and the webpage, it could be problematic if the structure of the database changes. For example, if due to some unforeseen reasons, data entries become more complex and new tables need to be added a year after the original site was built, then a huge part of the code related to the webpage needs to be modified as well. Similarly, if a developer wants to improve how data are displayed on the webpage, it is very likely as well that they will need to redesign and restructure the database. In other words, the code of the Django framework is not so reusable in face of potential changes; a small structural change may necessitate redoing the entire project. As a result, from the perspective of project maintenance, Django is not an ideal choice for long-term projects that have ongoing needs of website/data improvement and are going to be maintained by multiple people.
+
+In terms of flexibility, as Django does not have a front end, the interface designed by Django can be less dynamic and less interactive than the ones designed by Angular. What’s more, the webpages in Django are not modularized, making it more difficult to design webpages with complex components and functions.
+
 
 - **Nodejs/Angular (JavaScript)**
 
