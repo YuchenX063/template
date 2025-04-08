@@ -13,7 +13,7 @@ As introduced in the section “Context” [Context](https://yuchenx063.github.i
     <img src="assets/img/data_relationship.png" width="700"/>
 </p>
 
-Besides, it is noteworthy that the relationship between catholic institutions and people can change over time. In the following demonstrative chart, we can see that compared with year 1869, church001 no longer attends church002 in 1870, and person002 switches to church002 instead of staying in church001. Similar changes of how institutions and people are related to each other take place very frequently in the almanacs.
+Besides, it is noteworthy that the relationship between catholic institutions and catholic institutions, as well as between catholic institutions and people, can change over time. In the following demonstrative chart, we can see that compared with year 1869, church001 no longer attends church002 in 1870, and person002 switches to church002 instead of staying in church001. Similar changes of how institutions and people are related to each other take place very frequently in the almanacs.
 
 <p align="center">
     <img src="assets/img/data relationship_2.png" width="700"/>
