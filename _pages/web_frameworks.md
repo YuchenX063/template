@@ -28,3 +28,15 @@ In sum, Django is a handy choice if the database is only for short-term use, the
 
 - **Nodejs/Angular (JavaScript)**
 
+Nodejs is a runtime JavaScript environment primarily used for backend development, and Angular is an open-source web framework developed by Google. As the following chart illustrates, this more complex database website consists of three parts: the backend (Nodejs), the API (Nodejs), and the frontend (Angular).
+
+<p align="center">
+    <img src="assets/img/workflow.png" width="700"/>
+</p>
+
+As mentioned before, the backend is written in JavaScript with Nodejs. It performs almost the same function as the database in the Django framework: it stores all the metadata and the relations between different types of metadata. 
+
+The API, which stands for Application Programming Interface, is developed together with the backend. It handles the server-side logic and data management, or in other words, it defines different functions and routes of fetching data or performing actions. 
+
+The frontend is a web interface that displays data and a place where users query data. The frontend itself does not have any data inside; instead, when a user puts in some searching criteria through the web interface (for example, a church name and a diocese), it sends a request to the API, which then queries the backend and sends back the data it retrieves to the frontend to be displayed. 
+
