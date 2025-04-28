@@ -26,4 +26,4 @@ Starting from the two different web architecture environments, I want to underst
 
 ## About me
 
-I am a first-year English MA student at Boston College, and I hold a Bachelor of Engineering degree in Automation from Tsinghua University. With a multidisciplinary background, I am passionate about exploring the intersection of humanities and technology. My research interests focus on how Digital Humanities methodologies, such as database development and textual analysis, can influence how people understand data and bring new insights into traditional literary studies.
+My name is Yuchen Xiong, and I am a first-year English MA student at Boston College. I hold a Bachelor of Engineering degree in Automation from Tsinghua University. With a multidisciplinary background, I am passionate about exploring the intersection of humanities and technology. My research interests focus on how Digital Humanities methodologies, such as database development and textual analysis, can influence how people understand data and bring new insights into traditional literary studies.
