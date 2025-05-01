@@ -41,4 +41,9 @@ Or search by person name:
 
 ## The Nodejs/Angular website
 
+<p align="center">
+    <img src="assets/img/node-website.png" width="700"/>
+  <em>Home Page</em>
+</p>
+
 For a reflections page, [see here](https://confederate-memorials-project.readthedocs.io/en/latest/problems-encountered/).
