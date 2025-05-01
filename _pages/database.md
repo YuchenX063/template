@@ -5,13 +5,18 @@ permalink: database
 show-title: true
 ---
 
-Since both websites are not running on a server right now, I am illustrating them with screenshots of how they look like when running locally.
+Since both websites are not running on a server right now, I am illustrating them with screenshots of how they look like when running locally. This site will be updated once I put the website onto a server.
 
 ## The Django website
 
 <p align="center">
     <img src="assets/img/django website.png" width="700"/>
   <em>Home Page</em>
+</p>
+
+<p align="center">
+    <img src="assets/img/django-inst-detail.png" width="700"/>
+  <em>The detail page of St. Mary's</em>
 </p>
 
 
