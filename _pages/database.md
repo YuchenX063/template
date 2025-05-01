@@ -43,7 +43,7 @@ Or search by person name:
 
 Below is the browse institution page of the Nodejs website. There are two major differences between the new website and the old one. First, instead of displaying institutions and people parallelly in two columns, I chose to have two separate pages: one for institutions, one for people. Second, in this more advanced website, I no longer treat an institution in a specific year as an individual entity. Instead, I treat IDs as unique entities – in other words, the institutions on this page are grouped by their ID, and by clicking their name, users can view the more detailed page that has all other information about the institution throughout different years. I will elaborate on the decision making process in the reflection section.
 <p align="center">
-    <img src="assets/img/node-website.png" width="700"/>
+    <img src="assets/img/node_website.png" width="700"/>
   <em>Browse Institution Page</em>
 </p>
 
