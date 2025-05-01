@@ -19,6 +19,11 @@ Since both websites are not running on a server right now, I am illustrating the
   <em>The detail page of St. Mary's</em>
 </p>
 
+<p align="center">
+    <img src="assets/img/django-pers-detail.png" width="700"/>
+  <em>The detail page of Rev. C.Walworth</em>
+</p>
+
 
 
 
