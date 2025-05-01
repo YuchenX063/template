@@ -61,13 +61,13 @@ If a user hit a year button – for example, 1869 – then they can view the met
 
 On the previous page, if we click the person “Rev. P.J.Power,” we can access their person detail page as well:
 <p align="center">
-    <img src="assets/img/person-detail.png" width="700"/>
+    <img src="assets/img/pers-detail.png" width="700"/>
   <em>The detail page Rev. P.J.Power</em>
 </p>
 
 There is also a browse people page similar to the browse institution page.
 <p align="center">
-    <img src="assets/img/browse-pers.png" width="700"/>
+    <img src="assets/img/browse-people.png" width="700"/>
   <em>The browse people page</em>
 </p>
 
