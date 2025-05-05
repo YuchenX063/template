@@ -30,8 +30,8 @@ nav-menu:
 search-bar: false
 
 hide-footer: false # set to true to hide the footer
-footer-message: By Yuchen Xiong, with the Digital Scholarship Group, Boston College
-footer-message-link: https://ds.bc.edu
+footer-submessage: By Yuchen Xiong, with the Digital Scholarship Group, Boston College
+footer-submessage-link: https://ds.bc.edu
 
 # google-analytics: // if you want to use Google analytics, include your ID here
 
