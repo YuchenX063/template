@@ -5,7 +5,7 @@ permalink: context
 show-title: true
 ---
 
-This database is part of the Catholic Almanacs project, and the Digital Scholarship Group at Boston College has been working on it for a year. The overall goal is to turn U.S. Catholic Almanacs from 1833 to 1895 into a searchable database. For a more detailed contextual introduction to how the metadata is recorded in almanacs and how students extract and transcribe metadata onto google spreadsheets,  visit [this site](https://yuchenx063.github.io/template/web_framaeworks).
+This database is part of the Catholic Almanacs project, and the Digital Scholarship Group at Boston College has been working on it for a year. The overall goal is to turn U.S. Catholic Almanacs from 1833 to 1895 into a searchable database. For a more detailed contextual introduction to how the metadata is recorded in almanacs and how students extract and transcribe metadata onto google spreadsheets,  visit [this site](https://ds.bc.edu/catholic-almanacs/)).
 
 <p align="center">
     <img src="assets/img/almanacs.jpg" width="700"/>
