@@ -7,19 +7,19 @@ show-title: true
 
 ## The Design of the Database
 
-As introduced in the section [Context](https://yuchenx063.github.io/template/context), there are various types of data – catholic institutions and people – in the almanacs. What’s more, these data are interconnected with each other: in a specific year, for example, a church may be attending a few other smaller churches, while having multiple priests residing in it. In other words, as shown in the picture below, there are a lot of many-to-many relations between catholic institutions (for the sake of simplicity, I named them as “church”) and catholic institutions, as well as between catholic institutions and people.
+As introduced in the section [Context](https://yuchenx063.github.io/template/context), there are various types of data – catholic institutions and people – in the almanacs. What’s more, these data are interconnected with each other: in a specific year, for example, a church may be attending a few other smaller churches, while having multiple priests residing in it. In other words, as shown in the picture below, there are a lot of many-to-many relations between catholic institutions (for the sake of simplicity, I named them “church”) and catholic institutions, as well as between catholic institutions and people. Plus, this section will be updated once I finish redesigning the table structure on the backend.
 
 <p align="center">
     <img src="assets/img/data_relationship.png" width="700"/>
 </p>
 
-Besides, it is noteworthy that the relationship between catholic institutions and catholic institutions, as well as between catholic institutions and people, can change over time. In the following demonstrative chart, we can see that compared with year 1869, church001 no longer attends church002 in 1870, and person002 switches to church002 instead of staying in church001. Similar changes of how institutions and people are related to each other take place very frequently in the almanacs.
+Besides, it is noteworthy that the relationship between catholic institutions and catholic institutions, as well as between catholic institutions and people, can change over time. In the following demonstrative chart, we can see that compared with the year 1869, church001 no longer attends church002 in 1870, and person002 switches to church002 instead of staying in church001. Similar changes in how institutions and people are related to each other take place very frequently in the almanacs.
 
 <p align="center">
     <img src="assets/img/data relationship_2.png" width="700"/>
 </p>
 
-Therefore, in order not only to track and search for the evolvement of metadata (for example, how a catholic church's name change over time) but also the evolvement of the relationship between different categories of data, a database is needed to store **the metadata** *and* **the relationship** between metadata. This chart illustrates how I design the tables:
+Therefore, in order not only to track and search for the evolvement of metadata (for example, how a catholic church's name changes over time) but also the evolvement of the relationship between different categories of data, a database is needed to store **the metadata** *and* **the relationship** between metadata. This chart illustrates how I designed the tables:
 
 <p align="center">
     <img src="assets/img/tables.png" width="700"/>
