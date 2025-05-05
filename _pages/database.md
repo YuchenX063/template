@@ -77,4 +77,4 @@ On both the browse institution page and the browse people page, users can explor
   <em>The search result of St. John's in Boston</em>
 </p>
 
-For a reflections page, [see here](https://confederate-memorials-project.readthedocs.io/en/latest/problems-encountered/).
+For a reflections page, [see here](https://yuchenx063.github.io/template/reflections).
